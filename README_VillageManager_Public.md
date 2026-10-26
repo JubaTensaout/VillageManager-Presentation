@@ -187,7 +187,7 @@ Les conditions applicables sont celles du contrat ou de la licence remis avec la
 
 Pour toute question sur l’utilisation, la distribution ou une demande de démonstration, contactez le responsable du projet :
 
-- **Contact :** `[ajouter votre adresse e-mail professionnelle]`
+- **Contact :** jubatensaout23@gmail.com
 - **Projet :** VillageManager
 
 Avant de rendre ce dépôt public, remplacez le contact provisoire et vérifiez qu’aucune donnée confidentielle, clé privée, base de données réelle ou fichier de licence n’est inclus.
