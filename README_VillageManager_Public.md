@@ -4,6 +4,8 @@
 
 VillageManager est une application de bureau conçue pour faciliter la gestion quotidienne d’un village ou d’une association : adhérents, cotisations, dons, amendes, activités, dépenses, statistiques et sauvegardes. L’application fonctionne localement avec une base de données SQLite, pour une utilisation sans connexion Internet après installation et configuration.
 
+![Tableau de bord de VillageManager](village_manager.png)
+
 > **Distribution commerciale — Windows 10/11**
 >
 > VillageManager est un logiciel propriétaire. Ce dépôt public présente le produit et ses fonctionnalités ; il n’autorise pas la copie, la modification, la redistribution ou la commercialisation du logiciel.
@@ -23,6 +25,7 @@ VillageManager est une application de bureau conçue pour faciliter la gestion q
 ## Fonctionnalités
 
 ### Tableau de bord
+
 - Vue d’ensemble de la situation financière.
 - Indicateurs des cotisations, dons, amendes et activités.
 - Suivi des recettes, dépenses et du solde.
@@ -30,6 +33,7 @@ VillageManager est une application de bureau conçue pour faciliter la gestion q
 - Notifications utiles à la gestion courante.
 
 ### Gestion des citoyens et adhérents
+
 - Gestion d’un grand nombre de fiches, avec prise en charge de plus de 10 000 adhérents selon les performances du poste.
 - Recherche rapide par nom, prénom ou famille.
 - Détection des doublons et mise en forme automatique des noms.
@@ -37,6 +41,7 @@ VillageManager est une application de bureau conçue pour faciliter la gestion q
 - Gestion des exonérations de cotisation.
 
 ### Cotisations annuelles
+
 - Définition du montant par année.
 - Suivi des paiements pour chaque adhérent.
 - Recherche interactive d’un adhérent.
@@ -44,16 +49,19 @@ VillageManager est une application de bureau conçue pour faciliter la gestion q
 - Historique par année.
 
 ### Dons
+
 - Enregistrement des dons en argent ou en nature.
 - Valeur estimée pour les dons matériels.
 - Suivi par année et attribution aux familles concernées.
 
 ### Amendes
+
 - Enregistrement des amendes et des paiements.
 - Suivi des amendes payées et impayées.
 - Recherche par nom et enregistrement de la date de paiement.
 
 ### Activités et cotisations exceptionnelles
+
 - Création d’activités ou d’appels à contribution avec nom, montant et description.
 - Affectation à tous les adhérents ou à une sélection manuelle.
 - Suivi des participants et des paiements.
@@ -61,10 +69,12 @@ VillageManager est une application de bureau conçue pour faciliter la gestion q
 - Modification des activités et export PDF détaillé.
 
 ### Dépenses
+
 - Enregistrement et suivi des dépenses par année.
 - Consultation de l’historique et export PDF.
 
 ### Statistiques et rapports financiers
+
 - Génération d’un rapport financier PDF détaillé de plusieurs pages.
 - Graphiques de répartition des recettes.
 - Classement des dix familles les plus contributrices.
@@ -74,17 +84,20 @@ VillageManager est une application de bureau conçue pour faciliter la gestion q
 - Analyse par nom de famille et synthèse financière.
 
 ### Gestion sur plusieurs années
+
 - Consultation des données par année.
 - Historique pluriannuel selon les années présentes dans la base de données.
 - Navigation entre les années disponibles.
 
 ### Interface utilisateur
+
 - Thème clair et thème sombre.
 - Mode plein écran pour les présentations.
 - Raccourcis clavier pour accéder rapidement aux principales pages et actions.
 - Interface de bureau moderne avec animations.
 
 ### Sauvegardes et restauration
+
 - Sauvegardes automatiques avec conservation d’un nombre limité de copies.
 - Vérification de l’intégrité de la base de données.
 - Restauration à partir d’une sauvegarde.
@@ -146,6 +159,7 @@ Avant de publier des captures d’écran ou des exemples, vérifiez qu’ils ne 
 L’application comprend des mécanismes de sauvegarde et de vérification de l’intégrité de la base de données. La sécurité globale dépend également de la protection de l’ordinateur, des comptes utilisateurs et des fichiers exportés.
 
 Bonnes pratiques :
+
 - réaliser des sauvegardes sur un support séparé et sécurisé ;
 - tester périodiquement la restauration d’une sauvegarde ;
 - ne jamais publier de clé privée, mot de passe, base de données client ou fichier d’activation ;
@@ -190,4 +204,4 @@ Pour toute question sur l’utilisation, la distribution ou une demande de démo
 - **Contact :** jubatensaout23@gmail.com
 - **Projet :** VillageManager
 
-Avant de rendre ce dépôt public, remplacez le contact provisoire et vérifiez qu’aucune donnée confidentielle, clé privée, base de données réelle ou fichier de licence n’est inclus.
+Avant de rendre ce dépôt public, vérifiez qu’aucune donnée confidentielle, clé privée, base de données réelle ou fichier de licence n’est inclus.
