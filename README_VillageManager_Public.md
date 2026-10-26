@@ -165,26 +165,7 @@ Bonnes pratiques :
 - ne jamais publier de clé privée, mot de passe, base de données client ou fichier d’activation ;
 - ne pas envoyer de données personnelles par un canal non sécurisé.
 
-## Captures d’écran
 
-Des captures d’écran pourront être ajoutées après anonymisation des données.
-
-Structure suggérée :
-
-```text
-docs/
-└── screenshots/
-    ├── dashboard.png
-    ├── citizens.png
-    ├── contributions.png
-    └── statistics.png
-```
-
-Pour afficher une capture après l’avoir ajoutée :
-
-```markdown
-![Tableau de bord](docs/screenshots/dashboard.png)
-```
 
 ## Licence et distribution
 
@@ -204,4 +185,3 @@ Pour toute question sur l’utilisation, la distribution ou une demande de démo
 - **Contact :** jubatensaout23@gmail.com
 - **Projet :** VillageManager
 
-Avant de rendre ce dépôt public, vérifiez qu’aucune donnée confidentielle, clé privée, base de données réelle ou fichier de licence n’est inclus.
